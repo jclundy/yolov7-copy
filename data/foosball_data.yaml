@@ -1,0 +1,9 @@
+train: Foosball_Dataset/images/train/ 
+val:  Foosball_Dataset/images/val/
+test: Foosball_Dataset/images/test/
+
+# number of classes
+nc: 2
+
+# class names
+names: ["ball","foosman"]
