@@ -1,0 +1,11 @@
+test: Datasets/orange_2/test/images
+
+nc: 2
+names: ['ball', 'foosman']
+
+roboflow:
+  workspace: foosballproject
+  project: foosball-table-qfkml
+  version: 8
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/foosballproject/foosball-table-qfkml/dataset/8

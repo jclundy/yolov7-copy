@@ -1,0 +1,11 @@
+test: Foosball_test_rotation_images/test/images
+
+nc: 2
+names: ['ball', 'foosman']
+
+roboflow:
+  workspace: joseph-lundy
+  project: foosball-table-qfkml
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/joseph-lundy/foosball-table-qfkml/dataset/1
